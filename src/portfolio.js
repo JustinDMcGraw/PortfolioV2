@@ -1,34 +1,29 @@
-/* Change this file to get your personal Porfolio */
+/* Change this file to get your personal Portfolio */
 
 // Website related settings
 const settings = {
   isSplash: true, // Change this to true if you want to use the splash screen.
-  useCustomCursor: true, // Change this to false if you want the good'ol cursor
-  googleTrackingID: "UA-174238252-2",
+  useCustomCursor: false, // Change this to false if you want the good'ol cursor
 };
 
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "McGraw",
+  title2: "Daniel McGraw",
   logo_name: "daniel.m()",
-  nickname: "harry / picleric",
+  nickname: "Slaughter / Rex",
   full_name: "Daniel McGraw",
   subTitle: "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
-    "https://docs.google.com/document/d/1A_jWRG74Rst427tg1izLa6vRXclS9_9F856jWJPJlDY/edit?usp=sharing",
-  mail: "mailto:hkanani191@gmail.com",
+    "https://docs.google.com/document/d/1kcA00qiSJRZFDrfXZ0UPRw6QY4VKWMaDcrQpwVifx5U/edit?usp=sharing",
+  mail: "mailto:justindanielmcgraw@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/harikanani",
-  linkedin: "https://www.linkedin.com/in/harikrushn-kanani/",
-  gmail: "hkanani191@gmail.com",
-  gitlab: "https://gitlab.com/harikanani",
-  facebook: "https://www.facebook.com/harikrishan.kanani/",
-  twitter: "https://twitter.com/Harikrushn9",
-  instagram: "https://www.instagram.com/kanani_025/",
+  github: "https://github.com/JustinDMcGraw",
+  linkedin: "https://www.linkedin.com/in/justindmcgraw/",
+  gmail: "justindanielmcgraw@gmail.com",
 };
 
 const skills = {
@@ -39,9 +34,9 @@ const skills = {
       skills: [
         "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
         "⚡ Building responsive website front end using ReactJS",
-        "⚡ Developing mobile applications using Flutter and Android",
-        "⚡ Creating application backend in Node, Express & Flask",
-        "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
+        // "⚡ Developing mobile applications using Flutter and Android",
+        "⚡ Creating application backend in Node & Express",
+        // "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
       ],
       softwareSkills: [
         {
@@ -66,13 +61,13 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-        {
-          skillName: "PHP",
-          fontAwesomeClassname: "simple-icons:php",
-          style: {
-            color: "#7377AD",
-          },
-        },
+        // {
+        //   skillName: "PHP",
+        //   fontAwesomeClassname: "simple-icons:php",
+        //   style: {
+        //     color: "#7377AD",
+        //   },
+        // },
         {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
@@ -94,13 +89,13 @@ const skills = {
             color: "#CB3837",
           },
         },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#439743",
-          },
-        },
+        // {
+        //   skillName: "MongoDB",
+        //   fontAwesomeClassname: "simple-icons:mongodb",
+        //   style: {
+        //     color: "#439743",
+        //   },
+        // },
         // {
         //   skillName: "GraphQL",
         //   fontAwesomeClassname: "simple-icons:graphql",
@@ -108,34 +103,34 @@ const skills = {
         //     color: "#DE33A6",
         //   },
         // },
-        {
-          skillName: "Android",
-          fontAwesomeClassname: "simple-icons:android",
-          style: {
-            color: "#3DDC84",
-          },
-        },
-        {
-          skillName: "Java",
-          fontAwesomeClassname: "simple-icons:java",
-          style: {
-            color: "#f89820",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-        {
-          skillName: "Dart",
-          fontAwesomeClassname: "simple-icons:dart",
-          style: {
-            color: "#29B0EE",
-          },
-        },
+        // {
+        //   skillName: "Android",
+        //   fontAwesomeClassname: "simple-icons:android",
+        //   style: {
+        //     color: "#3DDC84",
+        //   },
+        // },
+        // {
+        //   skillName: "Java",
+        //   fontAwesomeClassname: "simple-icons:java",
+        //   style: {
+        //     color: "#f89820",
+        //   },
+        // },
+        // {
+        //   skillName: "Flutter",
+        //   fontAwesomeClassname: "simple-icons:flutter",
+        //   style: {
+        //     color: "#02569B",
+        //   },
+        // },
+        // {
+        //   skillName: "Dart",
+        //   fontAwesomeClassname: "simple-icons:dart",
+        //   style: {
+        //     color: "#29B0EE",
+        //   },
+        // },
         // {
         //   skillName: "Visual Basic",
         //   fontAwesomeClassname: "simple-icons:dot-net",
@@ -143,34 +138,34 @@ const skills = {
         //     color: "#029FCE",
         //   },
         // },
-        {
-          skillName: "MySQL",
-          fontAwesomeClassname: "simple-icons:mysql",
-          style: {
-            color: "#4479A1",
-          },
-        },
-        {
-          skillName: "jQuery",
-          fontAwesomeClassname: "simple-icons:jquery",
-          style: {
-            color: "#0865A6",
-          },
-        },
-        {
-          skillName: "Wordpress",
-          fontAwesomeClassname: "simple-icons:wordpress",
-          style: {
-            color: "#207297",
-          },
-        },
-        {
-          skillName: "Apache",
-          fontAwesomeClassname: "simple-icons:apache",
-          style: {
-            color: "#CA1A22",
-          },
-        },
+        // {
+        //   skillName: "MySQL",
+        //   fontAwesomeClassname: "simple-icons:mysql",
+        //   style: {
+        //     color: "#4479A1",
+        //   },
+        // },
+        // {
+        //   skillName: "jQuery",
+        //   fontAwesomeClassname: "simple-icons:jquery",
+        //   style: {
+        //     color: "#0865A6",
+        //   },
+        // },
+        // {
+        //   skillName: "Wordpress",
+        //   fontAwesomeClassname: "simple-icons:wordpress",
+        //   style: {
+        //     color: "#207297",
+        //   },
+        // },
+        // {
+        //   skillName: "Apache",
+        //   fontAwesomeClassname: "simple-icons:apache",
+        //   style: {
+        //     color: "#CA1A22",
+        //   },
+        // },
         {
           skillName: "Git",
           fontAwesomeClassname: "simple-icons:git",
@@ -178,20 +173,20 @@ const skills = {
             color: "#E94E32",
           },
         },
-        {
-          skillName: "C",
-          fontAwesomeClassname: "simple-icons:c",
-          style: {
-            color: "#E94E32",
-          },
-        },
-        {
-          skillName: "C++",
-          fontAwesomeClassname: "simple-icons:cplusplus",
-          style: {
-            color: "#E94E32",
-          },
-        },
+        // {
+        //   skillName: "C",
+        //   fontAwesomeClassname: "simple-icons:c",
+        //   style: {
+        //     color: "#E94E32",
+        //   },
+        // },
+        // {
+        //   skillName: "C++",
+        //   fontAwesomeClassname: "simple-icons:cplusplus",
+        //   style: {
+        //     color: "#E94E32",
+        //   },
+        // },
         {
           skillName: "Python",
           fontAwesomeClassname: "simple-icons:python",
@@ -231,13 +226,13 @@ const skills = {
             color: "#6863A6",
           },
         },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
+        // {
+        //   skillName: "Firebase",
+        //   fontAwesomeClassname: "simple-icons:firebase",
+        //   style: {
+        //     color: "#FFCA28",
+        //   },
+        // },
         {
           skillName: "PostgreSQL",
           fontAwesomeClassname: "simple-icons:postgresql",
@@ -245,20 +240,20 @@ const skills = {
             color: "#336791",
           },
         },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
+        // {
+        //   skillName: "MongoDB",
+        //   fontAwesomeClassname: "simple-icons:mongodb",
+        //   style: {
+        //     color: "#47A248",
+        //   },
+        // },
+        // {
+        //   skillName: "Docker",
+        //   fontAwesomeClassname: "simple-icons:docker",
+        //   style: {
+        //     color: "#1488C6",
+        //   },
+        // },
         {
           skillName: "GitHub Actions",
           fontAwesomeClassname: "simple-icons:githubactions",
@@ -490,15 +485,15 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "harikrushn.jpg",
+    profile_image_path: "DanielandMurph.jpg",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Twitter.",
-    link: "https://twitter.com/Harikrushn9",
+      "I don't blog really, but I'll occasionally post something helpful, funny, or thought-provoking to my LinkedIn",
+    link: "https://www.linkedin.com/in/justindmcgraw/",
     avatar_image_path: "blogs_image.svg",
   },
 };
@@ -775,7 +770,7 @@ const projects = {
       name: "Food Order Static Website",
       url: "https://github.com/harikanani/food-order-website",
       description:
-        "A simple static website related to food restaurants service. this is reasponsive as well.",
+        "A simple static website related to food restaurants service. this is responsive as well.",
       languages: [
         {
           name: "HTML5",
