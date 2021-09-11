@@ -3,7 +3,7 @@ import "./Project.css";
 import ProjectCard from "../../components/ProjectCard/";
 
 export default function Projects() {
-  const [repo, _] = useState([]);
+  const [repo] = useState([]);
 
   return (
     <div className="main" id="opensource">
