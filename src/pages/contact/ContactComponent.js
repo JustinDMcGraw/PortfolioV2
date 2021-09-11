@@ -59,7 +59,7 @@ function Contact(props) {
         <Fade bottom duration={1000} distance="40px">
           <div className="blog-heading-div">
             <div className="blog-heading-text-div">
-              <h1 className="blog-heading-text" style={{ color: theme.text }}>
+              {/* <h1 className="blog-heading-text" style={{ color: theme.text }}>
                 {blogSection["title"]}
               </h1>
               <p
@@ -67,16 +67,16 @@ function Contact(props) {
                 style={{ color: theme.secondaryText }}
               >
                 {blogSection["subtitle"]}
-              </p>
-              <div className="blogsite-btn-div">
+              </p> */}
+              {/* <div className="blogsite-btn-div">
                 <a {...styles} className="general-btn" href={blogSection.link}>
                   My LinkedIn Profile
                 </a>
-              </div>
+              </div> */}
             </div>
-            <div className="blog-heading-img-div">
+            {/* <div className="blog-heading-img-div">
               <BlogsImg theme={theme} />
-            </div>
+            </div> */}
           </div>
         </Fade>
       </div>

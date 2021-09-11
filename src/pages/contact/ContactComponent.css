@@ -26,6 +26,7 @@
 
 .contact-heading-div > * {
   flex: 1;
+  margin-top: 15%;
 }
 
 .address-heading-div > * {
@@ -41,6 +42,7 @@
 .profile-pic {
   box-shadow: 0 5px 15px #353535;
   border-radius: 5px;
+  transform: scale(0.8);
 }
 
 .blog-heading-img-div {
