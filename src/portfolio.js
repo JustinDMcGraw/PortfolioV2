@@ -640,52 +640,33 @@ const projects = {
         },
       ],
     },
-    // {
-    //   id: "4",
-    //   name: "node-web-scrapper",
-    //   url: "https://github.com/harikanani/node-web-scrapper",
-    //   description:
-    //     "A Simple web scrapper that scrap the information of amazon products such as price.It also scrap Wikipedia Data such as birthdate.",
-    //   languages: [
-    //     {
-    //       name: "HTML5",
-    //       iconifyClass: "vscode-icons:file-type-html",
-    //     },
-    //     {
-    //       name: "CSS3",
-    //       iconifyClass: "vscode-icons:file-type-css",
-    //     },
-    //     {
-    //       name: "NodeJs",
-    //       iconifyClass: "logos-nodejs",
-    //     },
-    //   ],
-    // },
-    // {
-    //   id: "5",
-    //   name: "harikanani.github.io",
-    //   url: "https://github.com/harikanani/harikanani.github.io",
-    //   description:
-    //     "A Personal Portfolio Website that showcases my work and experience. which is hosted on Github Pages.",
-    //   languages: [
-    //     {
-    //       name: "HTML5",
-    //       iconifyClass: "vscode-icons:file-type-html",
-    //     },
-    //     {
-    //       name: "CSS3",
-    //       iconifyClass: "vscode-icons:file-type-css",
-    //     },
-    //     {
-    //       name: "JavaScript",
-    //       iconifyClass: "logos-javascript",
-    //     },
-    //     {
-    //       name: "SCSS",
-    //       iconifyClass: "vscode-icons:file-type-scss2",
-    //     },
-    //   ],
-    // },
+    {
+      id: "6",
+      name: "UOAF Weather Bot",
+      url: "https://github.com/JustinDMcGraw/UOAF-WeatherBot",
+      description:
+        "A fun project that allows my community embed any local weather data that the user will specify within Discord, by pulling data directly from Microsoft.",
+      languages: [
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+      ],
+    },
+    {
+      id: "7",
+      name: "Authentication and Testing Sprint Challenge",
+      url:
+        "https://github.com/JustinDMcGraw/web-sprint-challenge-authentication-and-testing",
+      description:
+        "This sprint explored Authentication and Testing. During this sprint, I studied authentication, JSON web tokens, unit testing, and backend testing.",
+      languages: [
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+      ],
+    },
     // {
     //   id: "6",
     //   name: "Automate Attendace",
