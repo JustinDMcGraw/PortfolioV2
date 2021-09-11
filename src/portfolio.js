@@ -20,7 +20,6 @@ const greeting = {
 };
 
 const socialMediaLinks = {
-  /* Your Social Media Link */
   github: "https://github.com/JustinDMcGraw",
   linkedin: "https://www.linkedin.com/in/justindmcgraw/",
   gmail: "justindanielmcgraw@gmail.com",
