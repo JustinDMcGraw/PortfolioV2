@@ -269,17 +269,17 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "Dr. S. & S. S. Ghandhy College Of Engineering & Technology",
-      subtitle: "Diploma in Information Technology",
-      logo_path: "ssgandhy.png",
-      alt_name: "SETI",
-      duration: "2018 - Present",
+      title: "Lambda School",
+      subtitle: "Associate's in Full-Stack Web Development",
+      logo_path: "LambdaLogo.png",
+      alt_name: "Lambda School Logo",
+      duration: "March 2021 - August 2021",
       descriptions: [
-        "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
+        "⚡ I have studied core subjects ranging from HTML, CSS, and JavaScript; to Advanced React, Redux, and Node",
+        "⚡ Completed a number of build weeks, working as a team to create a mock product, and a Labs month building a real product for a Non-Profit. ",
+        "⚡ I have implemented several projects based on what I've learned under my Full-Stack Web Development course. ",
       ],
-      website_link: "http://www.ssgc.cteguj.in/",
+      website_link: "https://lambdaschool.com/",
     },
   ],
 };
@@ -290,8 +290,7 @@ const certifications = {
       title: "M0001: MongoDB Basics",
       subtitle: "MongoDB University",
       logo_path: "mongo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/12se6bMep48WXA1PlizTBAgCnW0GXM6wq/view?usp=sharing",
+      certificate_link: "#",
       alt_name: "MongoDB University",
       // color_code: "#2AAFED",
       color_code: "#47A048",
@@ -300,8 +299,7 @@ const certifications = {
       title: "Hackathon",
       subtitle: "Hack The Mountains",
       logo_path: "hackathon1.svg",
-      certificate_link:
-        "https://drive.google.com/file/d/12u_tkvhgB-K2TIm-RDdJOwYbQ9ccqiqA/view?usp=sharing",
+      certificate_link: "#",
       alt_name: "hackathon",
       color_code: "#E2405F",
     },
@@ -309,8 +307,7 @@ const certifications = {
       title: "A300: Atlas Security",
       subtitle: "MongoDB University",
       logo_path: "mongo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/12u_tkvhgB-K2TIm-RDdJOwYbQ9ccqiqA/view?usp=sharing",
+      certificate_link: "#",
       alt_name: "MongoDB University",
       // color_code: "#F6B808",
       color_code: "#47A048",
@@ -319,8 +316,7 @@ const certifications = {
       title: "Cyber Security & Cyber Forensics",
       subtitle: "Workshop at IIT Bombay",
       logo_path: "iit.png",
-      certificate_link:
-        "https://drive.google.com/file/d/12uAdjQC5LfrB1ODdxqIY181ugyyQhl-I/view?usp=sharing",
+      certificate_link: "#",
       alt_name: "Workshop",
       color_code: "#2AAFED",
     },
@@ -328,8 +324,7 @@ const certifications = {
       title: "MLH Local Hack Day: Build",
       subtitle: "Major League Hacking",
       logo_path: "mlh-logo.svg",
-      certificate_link:
-        "https://drive.google.com/file/d/1ws7g2Oepu76vDFir6SvR_emFAMSkB2ZQ/view?usp=sharing",
+      certificate_link: "#",
       alt_name: "Google",
       color_code: "#fe0037",
     },
@@ -337,8 +332,7 @@ const certifications = {
       title: "Hack20",
       subtitle: "Flutter Internation Hackathon",
       logo_path: "flutter.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1JTd8pVlHbP0RVQYtfa4OZgJYGfdiCwM6/view?usp=sharing",
+      certificate_link: "#",
       alt_name: "Flutter Internation Hackathon",
       color_code: "#2AAFED",
     },
@@ -346,8 +340,7 @@ const certifications = {
       title: "Postman Student Expert",
       subtitle: "Postman",
       logo_path: "postman.png",
-      certificate_link:
-        "https://badgr.com/public/assertions/h2qevHs4SlyoHErJQ0mn2g",
+      certificate_link: "#",
       alt_name: "Postman",
       // color_code: "#f36c3d",
       color_code: "#fffbf3",
