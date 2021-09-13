@@ -57,6 +57,7 @@
 
 .repo-description {
   word-wrap: break-word;
+  font-size: 0.9rem;
   text-align: left;
   display: -webkit-box;
   font-family: "Google Sans Regular";
