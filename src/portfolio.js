@@ -200,8 +200,8 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms",
-        "⚡ Experience hosting and managing websites",
-        "⚡ Experience with Continuous Integration",
+        "⚡ Multiple projects with hosting and managing websites",
+        "⚡ Trained with Continuous Integration",
       ],
       softwareSkills: [
         {
@@ -269,7 +269,7 @@ const degrees = {
   degrees: [
     {
       title: "Lambda School",
-      subtitle: "Associate's in Full-Stack Web Development",
+      subtitle: "Technical Degree in Full-Stack Web Development",
       logo_path: "LambdaLogo.png",
       alt_name: "Lambda School Logo",
       duration: "March 2021 - August 2021",
