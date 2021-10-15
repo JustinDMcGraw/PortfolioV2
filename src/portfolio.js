@@ -381,8 +381,7 @@ const experience = {
         {
           title: "UX Engineer/Front-End Engineer/Project Lead (Intern)",
           company: "Human Rights First",
-          company_url:
-            "https://github.com/JustinDMcGraw/human-rights-first-asylum-fe-a",
+          company_url: "https://www.humanrightsfirst.org/asylum",
           logo_path: "HRF.png",
           duration: "Aug 2021",
           location: "Remote",
