@@ -368,6 +368,17 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "IT Software Solutions (Contract)",
+          company: "Teksystems",
+          company_url: "https://www.teksystems.com/en",
+          logo_path: "teksystems.jpg",
+          duration: "Oct 2021 - Current",
+          location: "Calvert, AL",
+          description:
+            "Worked alongside the rest of the IT department at AM/NS Calvert to upgrade the entire list of outdated systems on Windows 7 to Windows 10 using a Powershell script and install needed software to the new systems to get the users ready to work with their new equipment.",
+          color: "#ee3c26",
+        },
+        {
           title: "UX Engineer/Front-End Engineer/Project Lead (Intern)",
           company: "Human Rights First",
           company_url:
