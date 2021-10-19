@@ -275,7 +275,7 @@ const degrees = {
       duration: "March 2021 - August 2021",
       descriptions: [
         "⚡ I have studied core subjects ranging from HTML, CSS, and JavaScript; to Advanced React, Redux, and Node",
-        "⚡ Completed a number of build weeks, working as a team to create a mock product, and a Labs month building a real product for a Non-Profit. ",
+        "⚡ Completed a number of build weeks, working as a team to create a mock product, and a Labs month as an Intern building a real product for a Non-Profit. ",
         "⚡ I have implemented several projects based on what I've learned under my Full-Stack Web Development course. ",
       ],
       website_link: "https://lambdaschool.com/",
