@@ -11,7 +11,7 @@ const greeting = {
   title: "Hello 👋.",
   title2: "Daniel McGraw",
   logo_name: "daniel.m()",
-  nickname: "Slaughter / Rex",
+  nickname: "Slaughter / Rex / Quick Draw McGraw",
   full_name: "Daniel McGraw",
   subTitle: "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
@@ -225,13 +225,13 @@ const skills = {
             color: "#6863A6",
           },
         },
-        // {
-        //   skillName: "Firebase",
-        //   fontAwesomeClassname: "simple-icons:firebase",
-        //   style: {
-        //     color: "#FFCA28",
-        //   },
-        // },
+        {
+          skillName: "Firebase",
+          fontAwesomeClassname: "simple-icons:firebase",
+          style: {
+            color: "#FFCA28",
+          },
+        },
         {
           skillName: "PostgreSQL",
           fontAwesomeClassname: "simple-icons:postgresql",
@@ -274,7 +274,7 @@ const degrees = {
       alt_name: "Lambda School Logo",
       duration: "March 2021 - August 2021",
       descriptions: [
-        "⚡ I studied core subjects ranging from HTML, CSS, and JavaScript; to Advanced React, Redux, and Node",
+        "⚡ I studied core subjects ranging from HTML, CSS, and JavaScript; to Advanced React, Redux, and Node.",
         "⚡ Completed a number of build weeks, working as a team to create a mock product, and a Labs month as an Intern building a real product for a Non-Profit with a full team of interdisciplinary engineers using AGILE methods. ",
         "⚡ I have implemented several projects based on what I've learned under my Full-Stack Web Development course. ",
       ],
@@ -361,7 +361,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I've completed one internship. I've mostly done projects on my own and I am actively looking for full-time work.",
+    "I've completed one internship, in a multi-discipline AGILE team. I've done many projects on my own and a number of projects in an AGILE team. I am actively looking for full-time work.",
   header_image_path: "experience.svg",
   sections: [
     {
