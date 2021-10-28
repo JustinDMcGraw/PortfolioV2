@@ -519,7 +519,7 @@ const projects = {
       name: "Human Rights First - Asylum",
       url: "https://github.com/JustinDMcGraw/human-rights-first-asylum-fe-a",
       description:
-        "This is the project developed for the Non-Profit. It is a tool for Asylum Seeking lawyers to find judges in their district, complete with visualizations to see where the judge tends to lean to approve asylum to the seeker.",
+        "This is the project developed on an AGILE team for the Non-Profit. It is a tool for Asylum Seeking lawyers to find judges in their district, complete with visualizations to see where the judge tends to lean to approve asylum to the seeker.",
       languages: [
         {
           name: "HTML5",
