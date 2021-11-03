@@ -57,7 +57,7 @@
 
 .repo-description {
   word-wrap: break-word;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   text-align: left;
   display: -webkit-box;
   font-family: "Google Sans Regular";
@@ -68,6 +68,8 @@
 .repo-details {
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
 .repo-creation-date {
