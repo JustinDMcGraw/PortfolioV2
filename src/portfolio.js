@@ -516,6 +516,31 @@ const projects = {
   data: [
     {
       id: "0",
+      name: "Netflix Clone",
+      url: "https://github.com/JustinDMcGraw/Netflix-Clone",
+      description:
+        "Personal project recreating Netflix from the ground up in React with Redux and hosted on Firebase. Consumes the TMDB API.",
+      languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+        {
+          name: "ReactJS",
+          iconifyClass: "logos-react",
+        },
+      ],
+    },
+    {
+      id: "1",
       name: "Human Rights First - Asylum",
       url: "https://github.com/JustinDMcGraw/human-rights-first-asylum-fe-a",
       description:
@@ -540,7 +565,7 @@ const projects = {
       ],
     },
     {
-      id: "1",
+      id: "2",
       name: "React-Components-Insta-Clone",
       url: "https://github.com/JustinDMcGraw/React-Components-Insta-Clone",
       description: "A simple Instagram clone using React.",
@@ -564,7 +589,7 @@ const projects = {
       ],
     },
     {
-      id: "2",
+      id: "3",
       name: "Component Side Effects- NASA APOD",
       url: "https://github.com/JustinDMcGraw/nasa-photo-of-the-day",
       description:
@@ -585,7 +610,7 @@ const projects = {
       ],
     },
     {
-      id: "3",
+      id: "4",
       name: "Client Side Routing w/ React Router v.5",
       url: "https://github.com/JustinDMcGraw/React-Router-Movies",
       description:
@@ -610,7 +635,7 @@ const projects = {
       ],
     },
     {
-      id: "4",
+      id: "5",
       name: "React Components and Components State",
       url: "https://github.com/JustinDMcGraw/react-stateful-widgets",
       description: "This module explores React components and component state.",
@@ -634,7 +659,7 @@ const projects = {
       ],
     },
     {
-      id: "5",
+      id: "6",
       name: "Express Middleware Module Project",
       url: "https://github.com/JustinDMcGraw/node-api3-project",
       description:
@@ -651,7 +676,7 @@ const projects = {
       ],
     },
     {
-      id: "6",
+      id: "7",
       name: "UOAF Weather Bot",
       url: "https://github.com/JustinDMcGraw/UOAF-WeatherBot",
       description:
@@ -663,20 +688,20 @@ const projects = {
         },
       ],
     },
-    {
-      id: "7",
-      name: "Authentication and Testing Sprint Challenge",
-      url:
-        "https://github.com/JustinDMcGraw/web-sprint-challenge-authentication-and-testing",
-      description:
-        "This sprint explored Authentication and Testing. During this sprint, I studied authentication, JSON web tokens, unit testing, and backend testing.",
-      languages: [
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-      ],
-    },
+    // {
+    //   id: "7",
+    //   name: "Authentication and Testing Sprint Challenge",
+    //   url:
+    //     "https://github.com/JustinDMcGraw/web-sprint-challenge-authentication-and-testing",
+    //   description:
+    //     "This sprint explored Authentication and Testing. During this sprint, I studied authentication, JSON web tokens, unit testing, and backend testing.",
+    //   languages: [
+    //     {
+    //       name: "JavaScript",
+    //       iconifyClass: "logos-javascript",
+    //     },
+    //   ],
+    // },
     // {
     //   id: "6",
     //   name: "Automate Attendace",
