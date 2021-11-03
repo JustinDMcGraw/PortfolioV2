@@ -609,55 +609,55 @@ const projects = {
         },
       ],
     },
-    {
-      id: "4",
-      name: "Client Side Routing w/ React Router v.5",
-      url: "https://github.com/JustinDMcGraw/React-Router-Movies",
-      description:
-        "A project that shows usage of Routing with React Router showing details of various Star Wars movies.",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-      ],
-    },
-    {
-      id: "5",
-      name: "React Components and Components State",
-      url: "https://github.com/JustinDMcGraw/react-stateful-widgets",
-      description: "This module explores React components and component state.",
-      languages: [
-        {
-          name: "HTML5",
-          iconifyClass: "vscode-icons:file-type-html",
-        },
-        {
-          name: "CSS3",
-          iconifyClass: "vscode-icons:file-type-css",
-        },
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-      ],
-    },
+    // {
+    //   id: "4",
+    //   name: "Client Side Routing w/ React Router v.5",
+    //   url: "https://github.com/JustinDMcGraw/React-Router-Movies",
+    //   description:
+    //     "A project that shows usage of Routing with React Router showing details of various Star Wars movies.",
+    //   languages: [
+    //     {
+    //       name: "HTML5",
+    //       iconifyClass: "vscode-icons:file-type-html",
+    //     },
+    //     {
+    //       name: "CSS3",
+    //       iconifyClass: "vscode-icons:file-type-css",
+    //     },
+    //     {
+    //       name: "JavaScript",
+    //       iconifyClass: "logos-javascript",
+    //     },
+    //     {
+    //       name: "ReactJS",
+    //       iconifyClass: "logos-react",
+    //     },
+    //   ],
+    // },
+    // {
+    //   id: "5",
+    //   name: "React Components and Components State",
+    //   url: "https://github.com/JustinDMcGraw/react-stateful-widgets",
+    //   description: "This module explores React components and component state.",
+    //   languages: [
+    //     {
+    //       name: "HTML5",
+    //       iconifyClass: "vscode-icons:file-type-html",
+    //     },
+    //     {
+    //       name: "CSS3",
+    //       iconifyClass: "vscode-icons:file-type-css",
+    //     },
+    //     {
+    //       name: "JavaScript",
+    //       iconifyClass: "logos-javascript",
+    //     },
+    //     {
+    //       name: "ReactJS",
+    //       iconifyClass: "logos-react",
+    //     },
+    //   ],
+    // },
     {
       id: "6",
       name: "Express Middleware Module Project",
