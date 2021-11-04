@@ -27,6 +27,11 @@ export default function ProjectCard({ repo, theme }) {
   return (
     <div>
       <Fade bottom duration={2000} distance="40px">
+        <img
+          src="../assests/images/netflix-clone.png"
+          alt=""
+          className="projectimg"
+        />
         <div
           {...styles}
           key={repo.id}
