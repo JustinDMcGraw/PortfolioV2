@@ -268,7 +268,7 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "Lambda School",
+      title: "Lambda School (Bloomtech Institute of Technology)",
       subtitle: "Technical Degree in Full-Stack Web Development",
       logo_path: "LambdaLogo.png",
       alt_name: "Lambda School Logo",
@@ -368,14 +368,25 @@ const experience = {
       title: "Work Experience",
       experiences: [
         {
+          title: "Bio-Medical Technician (Contract)",
+          company: "USA Health - University Hospital",
+          company_url: "https://www.usahealthsystem.com/",
+          logo_path: "USAHealth.jpg",
+          duration: "Jan 2022 - Current",
+          location: "Mobile, AL",
+          description:
+            "Assisted junior technicians on basic and complex repairs, PMs, test equipment, and all applicable documentation while providing emergency equipment repair and general biomedical engineering support.",
+          color: "#0071C5",
+        },
+        {
           title: "IT Software Solutions (Contract)",
-          company: "Teksystems",
+          company: "AM/NS Calvert",
           company_url: "https://www.teksystems.com/en",
-          logo_path: "teksystems.jpg",
-          duration: "Oct 2021 - Current",
+          logo_path: "amns calvert logo.jpg",
+          duration: "Oct 2021 - Dec 2021",
           location: "Calvert, AL",
           description:
-            "Worked alongside the rest of the IT department at AM/NS Calvert to upgrade the entire list of outdated systems on Windows 7 to Windows 10 using a Powershell script and install needed software to the new systems to get the users ready to work with their new equipment.",
+            "Worked alongside the rest of the IT department to upgrade the entire list of outdated systems on Windows 7 to Windows 10 using a Powershell script and install needed software to the new systems to get the users ready to work with their new equipment.",
           color: "#ee3c26",
         },
         {
