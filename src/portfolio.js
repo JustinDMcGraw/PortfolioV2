@@ -361,27 +361,28 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I've completed one internship, in a multi-discipline AGILE team. I've done many projects on my own and a number of projects in an AGILE team. I am actively looking for full-time work.",
+    "I've completed one internship, in a multi-discipline AGILE team. I've done many projects on my own and a number of projects in an AGILE team. I am actively looking for full-time developer positions.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work Experience",
       experiences: [
         {
-          title: "Bio-Medical Technician (Contract)",
+          title: "Biomedical Engineering Technician ",
           company: "USA Health - University Hospital",
           company_url: "https://www.usahealthsystem.com/",
           logo_path: "USAHealth.jpg",
           duration: "Jan 2022 - Current",
           location: "Mobile, AL",
           description:
-            "Assisted junior technicians on basic and complex repairs, PMs, test equipment, and all applicable documentation while providing emergency equipment repair and general biomedical engineering support.",
+            "Assisted junior technicians on basic and complex repairs, preventative maintenance, testing equipment, and all applicable documentation while providing emergency equipment repair and general biomedical engineering support.",
           color: "#0071C5",
         },
         {
           title: "IT Software Solutions (Contract)",
           company: "AM/NS Calvert",
-          company_url: "https://www.teksystems.com/en",
+          company_url:
+            "https://northamerica.arcelormittal.com/our-operations/am-ns-calvert",
           logo_path: "amns calvert logo.jpg",
           duration: "Oct 2021 - Dec 2021",
           location: "Calvert, AL",
