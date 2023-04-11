@@ -361,7 +361,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I've completed one internship, in a multi-discipline AGILE team. I've done many projects on my own and a number of projects in an AGILE team. I am actively looking for full-time developer positions.",
+    "I've completed one internship, in a multi-discipline AGILE team. I've done many projects on my own and a number of projects in an AGILE team. I am actively looking for full-time developer positions. Currently, I am working as a Biomedical Engineering Technician at USA Health - Children's and Women's Hospital.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -369,13 +369,13 @@ const experience = {
       experiences: [
         {
           title: "Biomedical Engineering Technician ",
-          company: "USA Health - University Hospital",
+          company: "USA Health - Children's and Women's Hospital",
           company_url: "https://www.usahealthsystem.com/",
           logo_path: "USAHealth.jpg",
           duration: "Jan 2022 - Current",
           location: "Mobile, AL",
           description:
-            "Assisted junior technicians on basic and complex repairs, preventative maintenance, testing equipment, and all applicable documentation while providing emergency equipment repair and general biomedical engineering support.",
+            "Perform routine maintenance, calibration, and repair of a wide range of biomedical equipment, including infusion pumps, defibrillators, and patient monitors. Monitor and test equipment performance, ensuring that it operates within manufacturer specifications and regulatory guidelines. I am currently certified with Oracle-Cerner in the Fundamentals and Advanced Troubleshooting and Architecture.",
           color: "#0071C5",
         },
         {
