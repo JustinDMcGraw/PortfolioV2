@@ -35,7 +35,7 @@ const skills = {
         "⚡ Building responsive website front end using ReactJS",
         // "⚡ Developing mobile applications using Flutter and Android",
         "⚡ Creating application backend in Node & Express",
-        // "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+        "⚡ Integration of third party services such as Firebase or AWS",
       ],
       softwareSkills: [
         {
